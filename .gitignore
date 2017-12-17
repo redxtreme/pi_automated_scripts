@@ -1,2 +1,4 @@
 
 *.pyc
+
+email_handler/creds.py
