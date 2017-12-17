@@ -1,4 +1,4 @@
 login = {
-  'email': myemailhere!
-  'p': mypasshere!
+  'email': myemailhere,
+  'p': mypasshere
 }
